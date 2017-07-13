@@ -1,0 +1,12 @@
+/build.properties
+/templ
+/bower_modules/
+/components/
+/composer.lock
+/vendor/
+/node_modules/
+/npm-shrinkwrap.json
+/projects/Jihad/
+/projects/Parser/
+/rsync.local
+/_ide_integration.php
